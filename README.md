@@ -7,3 +7,4 @@
 * [定义ORM的接口](https://github.com/CraryPrimitiveMan/create-your-own-php-framework/blob/master/04.md)
 * [实现Model类(1)](https://github.com/CraryPrimitiveMan/create-your-own-php-framework/blob/master/05.md)
 * [实现Model类(2)](https://github.com/CraryPrimitiveMan/create-your-own-php-framework/blob/master/06.md)
+* [实现Model类(3)](https://github.com/CraryPrimitiveMan/create-your-own-php-framework/blob/master/07.md)
