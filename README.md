@@ -18,3 +18,9 @@
 * [构建模版引擎(1)](https://github.com/CraryPrimitiveMan/create-your-own-php-framework/blob/master/11.md)
 * [构建模版引擎(2)](https://github.com/CraryPrimitiveMan/create-your-own-php-framework/blob/master/12.md)
 * [构建模版引擎(3)](https://github.com/CraryPrimitiveMan/create-your-own-php-framework/blob/master/13.md)
+
+## 许可
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" /></a>
+
+本书系[孙广君](https://github.com/CraryPrimitiveMan)著，采用[知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)许可。
